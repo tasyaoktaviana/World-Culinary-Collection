@@ -7,3 +7,8 @@ Jepang
 -mochi
 -ramen
 -sushi
+
+Korea
+-kimbab
+-kimchi
+-ramyeon
